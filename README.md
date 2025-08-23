@@ -30,20 +30,22 @@
   <img alt="JavaScript"   title="JavaScript"   height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="TypeScript"   title="TypeScript"   height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="Angular"      title="Angular"      height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img alt="Flask"        title="Flask"        height="40" src="https://cdn.simpleicons.org/flask" />
-  <img alt="REST API (Swagger/OpenAPI)" title="REST API (Swagger/OpenAPI)" height="40" src="https://cdn.simpleicons.org/swagger" />
+  <img alt="Flask"        title="Flask"        height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/flask.svg" />
+  <img alt="REST API (Swagger/OpenAPI)" title="REST API (Swagger/OpenAPI)" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/swagger.svg" />
 </p>
 
 ### Cloud, CI/CD & Automation
 <p>
   <img alt="Docker"             title="Docker"             height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Kubernetes"         title="Kubernetes"         height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-  <img alt="OpenShift"          title="Red Hat OpenShift"  height="40" src="https://cdn.simpleicons.org/redhatopenshift" />
+  <img alt="OpenShift"          title="Red Hat OpenShift"  height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/redhatopenshift.svg" />
   <img alt="Jenkins"            title="Jenkins"            height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   <img alt="Ansible"            title="Ansible"            height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
+  <img alt="Vagrant"            title="Vagrant"            height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/vagrant/vagrant-original.svg" />
+  <img alt="Microsoft Azure"    title="Microsoft Azure"    height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/azure/azure-original.svg" />
   <img alt="AWS"                title="Amazon Web Services"height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img alt="Git"                title="Git"                height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Maven"              title="Apache Maven"       height="40" src="https://cdn.simpleicons.org/apachemaven" />
+  <img alt="Maven"              title="Apache Maven"       height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apachemaven.svg" />
 </p>
 
 ### Web, Servers & OS
@@ -59,41 +61,49 @@
   <img alt="MongoDB"            title="MongoDB"            height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img alt="MySQL"              title="MySQL"              height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="RabbitMQ"           title="RabbitMQ"           height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/rabbitmq/rabbitmq-original.svg" />
-  <img alt="Memcached" title="Memcached" height="40"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/memcached/memcached-original.svg" />
+  <img alt="Memcached"          title="Memcached"          height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/memcached/memcached-original.svg" />
 </p>
 
 ### Data & ML
 <p>
-  <img alt="Kaggle"             title="Kaggle"             height="40" src="https://cdn.simpleicons.org/kaggle" />
+  <img alt="Kaggle"             title="Kaggle"             height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kaggle.svg" />
 </p>
 
 ### Monitoring & Observability
 <p>
   <img alt="Prometheus"         title="Prometheus"         height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
   <img alt="Grafana"            title="Grafana"            height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+  <img alt="Nagios"             title="Nagios"             height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nagios.svg" />
+</p>
+
+### Developer Programs
+<p>
+  <img alt="Google Developers"  title="Google Developers"  height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googledevelopers.svg" />
 </p>
 
 ---
 
 ## 🎓 Certifications
+- **Software Development — .NET Web Developer**, Digital Egypt Pioneers Initiative (DEPI) — *Issued Nov 2024*  
 - Red Hat **System Administration I (RH124)** — Certification of Attendance  
 - Red Hat **OpenShift Development I (DO188)** — Certification of Attendance  
 - **DevOps Diploma** (CLS Learning Solutions)  
-- **Software Development — .NET Web Developer**, Digital Egypt Pioneers Initiative (DEPI)  
+
 ---
 
 ## 🧪 Featured work  
 - **Package Tracking System** — Python + Angular + MongoDB, containerized with Docker, orchestrated via Kubernetes/OpenShift.  
 - **End-to-End CI/CD for Java** — Jenkins pipelines with Docker builds and AWS deployments.  
 - **Infra as Code** — Ansible roles/playbooks; AWX for centralized runs.  
-- **Observability** — Prometheus & Grafana dashboards and alerts (HTTP/MySQL/infrastructure).
+- **Observability** — Prometheus & Grafana dashboards and alerts (HTTP/MySQL/infrastructure).  
 - **Inventory Management System** — ASP.NET Core MVC (**.NET 8**) + **MySQL** using **EF Core**, **Repository + Unit of Work**, and **Microsoft Identity** with roles.  
+
 ---
 
 ## 📫 Reach me
 - Email: **omar.ahmed2004@outlook.com**  
 - LinkedIn: **https://www.linkedin.com/in/omar-mahgoub-b732a9ba**  
+
 ---
 
 <details>
