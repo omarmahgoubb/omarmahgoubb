@@ -80,7 +80,7 @@
 - Red Hat **System Administration I (RH124)** — Certification of Attendance  
 - Red Hat **OpenShift Development I (DO188)** — Certification of Attendance  
 - **DevOps Diploma** (CLS Learning Solutions)  
-- **Software Development — .NET Web Developer**, Digital Egypt Pioneers Initiative (DEPI) — *Issued Nov 2024*  
+- **Software Development — .NET Web Developer**, Digital Egypt Pioneers Initiative (DEPI)  
 ---
 
 ## 🧪 Featured work  
