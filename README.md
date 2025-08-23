@@ -59,7 +59,8 @@
   <img alt="MongoDB"            title="MongoDB"            height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img alt="MySQL"              title="MySQL"              height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="RabbitMQ"           title="RabbitMQ"           height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/rabbitmq/rabbitmq-original.svg" />
-  <img alt="Memcached"          title="Memcached"          height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/memcached/memcached-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/memcached/memcached-original.svg)" />
+  <img alt="Memcached" title="Memcached" height="40"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/memcached/memcached-original.svg" />
 </p>
 
 ### Data & ML
