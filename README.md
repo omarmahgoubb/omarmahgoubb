@@ -38,7 +38,8 @@
   <img alt="OpenShift"          title="Red Hat OpenShift"  height="40" src="https://cdn.simpleicons.org/redhatopenshift" />
   <img alt="Jenkins"            title="Jenkins"            height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   <img alt="Ansible"            title="Ansible"            height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
-  <img alt="AWS"                title="Amazon Web Services"height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img alt="AWS" title="Amazon Web Services" height="40"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img alt="Git"                title="Git"                height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Maven"              title="Apache Maven"       height="40" src="https://cdn.simpleicons.org/apachemaven" />
 </p>
@@ -56,8 +57,8 @@
   <img alt="MongoDB"            title="MongoDB"            height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img alt="MySQL"              title="MySQL"              height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="RabbitMQ"           title="RabbitMQ"           height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
-  <img alt="Memcached"          title="Memcached"          height="40" src="https://cdn.simpleicons.org/memcached" />
-</p>
+  <img alt="Memcached" title="Memcached" height="40"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/memcached/memcached-original.svg" />
 
 ### Monitoring & Observability
 <p>
