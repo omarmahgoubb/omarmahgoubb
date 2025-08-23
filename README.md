@@ -74,8 +74,7 @@
 <p>
   <img alt="Prometheus"         title="Prometheus"         height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
   <img alt="Grafana"            title="Grafana"            height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-  <img alt="Nagios"             title="Nagios"             height="40" src="[https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nagios.svg](https://e7.pngegg.com/pngimages/599/429/png-clipart-nagios-company-computer-icons-business-beacon-retiree-benefits-group-inc-speed-networking-circle-blue-company.png)" />
-</p>
+ </p>
 ---
 
 ## 🎓 Certifications
