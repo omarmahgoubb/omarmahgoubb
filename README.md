@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Omar Mahgoub 👋</h1>
 <p align="center">
-  DevSecOps Software Engineer • CI/CD • Containers • Cloud • Monitoring
+  DevOps Software Engineer • CI/CD • Containers • Cloud • Monitoring
 </p>
 
 ---
